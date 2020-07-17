@@ -7,7 +7,7 @@ npm install --save blackdrago/jquery-tmpl
 
 For 1.0.0pre code:
 ```
-npm install --save blackdrago/jquery-tmpl@v0.1.0 
+sudo npm install --save blackdrago/jquery-tmpl#v0.1.2
 ```
 
 # jQuery Templates plugin vBeta1.0.0
