@@ -1,7 +1,7 @@
 # jQuery Templates Plugin Repository - npm support for legacy code
 
 ```
-npm install --save blackdrago/jquery-tmpl@v0.1.0
+npm install --save blackdrago/jquery-tmpl#v0.1.2
 ```
 
 # jQuery Templates plugin
